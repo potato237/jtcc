@@ -1,3 +1,11 @@
+# Fork of JTCC
+
+This is a fork from https://github.com/wittawatj/jtcc to make it a Maven project.
+Fork was made on 2019-10-08.
+
+
+
+
 # JTCC
 
 **JTCC** is a Java library to tokenize Thai text into a list of TCCs. The rules
